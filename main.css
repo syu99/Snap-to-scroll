@@ -2,7 +2,7 @@ body {
   width: 100vw;
   height: 100vh;
   margin: 0;
-  background-color: #a28bff;
+  background-color: #ffffff;
 }
 body .container {
   width: 100%;
@@ -29,6 +29,18 @@ body section:nth-child(2) {
 body section:nth-child(3) {
   background-color: rgb(48, 48, 48);
   color: rgb(197, 136, 255);
+}
+body section:nth-child(4) {
+  background-color: rgb(58, 58, 58);
+  color: rgb(140, 122, 255);
+}
+body section:nth-child(5) {
+  background-color: rgb(68, 68, 68);
+  color: rgb(63, 92, 255);
+}
+body section:nth-child(6) {
+  background-color: rgb(78, 78, 78);
+  color: rgb(0, 8, 255);
 }
 body section h1 {
   font-family: Arial, Helvetica, sans-serif;
