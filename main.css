@@ -40,7 +40,7 @@ body section:nth-child(5) {
 }
 body section:nth-child(6) {
   background-color: rgb(78, 78, 78);
-  color: rgb(0, 8, 255);
+  color: #fef0e1;
 }
 body section h1 {
   font-family: Arial, Helvetica, sans-serif;
